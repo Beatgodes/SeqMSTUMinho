@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+.DS_Store
+bin/prim_seq
+bin/kruskal_window
+bin/boruvka_seq
+bin/kruskal_seq
+bin/reverse_delete
